@@ -245,6 +245,7 @@ body{
 ```
 
 ## OUTPUT:
+![Screenshot (7)](https://github.com/user-attachments/assets/b5b4cf89-6274-4885-94ed-e7c2a287c5b2)
 
 
 ## RESULT:
